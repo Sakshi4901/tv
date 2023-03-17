@@ -22,16 +22,4 @@ box-shadow: 10px 10px 10px grey;
 border-radius: 10px;
 margin-top: 60px;
 }
-a
-{
-  float:right;
-  font-size: 20px !important;
-  margin: 5px;
-  background: black;
-  cursor: pointer;
-  color: white;
-}
-a:hover
-{
-  color:red !important;
-}
+
